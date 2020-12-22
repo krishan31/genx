@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/opensso~svn/!svn/ver/8372/trunk/extensions/spring2provider/example
+END
+nb-configuration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/opensso~svn/!svn/ver/6035/trunk/extensions/spring2provider/example/nb-configuration.xml
+END
+leeme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/opensso~svn/!svn/ver/5393/trunk/extensions/spring2provider/example/leeme.txt
+END
+samplepolicies.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/opensso~svn/!svn/ver/8372/trunk/extensions/spring2provider/example/samplepolicies.xml
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/opensso~svn/!svn/ver/8372/trunk/extensions/spring2provider/example/pom.xml
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/opensso~svn/!svn/ver/6036/trunk/extensions/spring2provider/example/readme.txt
+END

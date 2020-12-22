@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/opensso~svn/!svn/ver/8372/trunk/extensions/spring2provider/example/src/main/webapp
+END
+main.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/opensso~svn/!svn/ver/6035/trunk/extensions/spring2provider/example/src/main/webapp/main.jsp
+END
+deniedAccess.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/opensso~svn/!svn/ver/5548/trunk/extensions/spring2provider/example/src/main/webapp/deniedAccess.jsp
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/opensso~svn/!svn/ver/5393/trunk/extensions/spring2provider/example/src/main/webapp/index.html
+END
+loginfailure.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/opensso~svn/!svn/ver/8372/trunk/extensions/spring2provider/example/src/main/webapp/loginfailure.jsp
+END
+logoutSuccess.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/opensso~svn/!svn/ver/5548/trunk/extensions/spring2provider/example/src/main/webapp/logoutSuccess.jsp
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/opensso~svn/!svn/ver/8372/trunk/extensions/spring2provider/example/src/main/webapp/WEB-INF
+END
+sun-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/opensso~svn/!svn/ver/8372/trunk/extensions/spring2provider/example/src/main/webapp/WEB-INF/sun-web.xml
+END
+faces-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/opensso~svn/!svn/ver/5393/trunk/extensions/spring2provider/example/src/main/webapp/WEB-INF/faces-config.xml
+END
+ac-security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/opensso~svn/!svn/ver/8372/trunk/extensions/spring2provider/example/src/main/webapp/WEB-INF/ac-security.xml
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/opensso~svn/!svn/ver/5393/trunk/extensions/spring2provider/example/src/main/webapp/WEB-INF/applicationContext.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/opensso~svn/!svn/ver/5548/trunk/extensions/spring2provider/example/src/main/webapp/WEB-INF/web.xml
+END

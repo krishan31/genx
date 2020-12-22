@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Krishan
+Build-Jdk: 14.0.2
+Implementation-Title: spring-boot-demo
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: org.activiti
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-boot-demo
+Created-By: Maven Integration for Eclipse
+
